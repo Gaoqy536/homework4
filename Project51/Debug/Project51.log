@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\新建文件夹\Project51\Project51\源.cpp(65,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\新建文件夹\Project51\Project51\源.cpp(66,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\新建文件夹\Project51\Project51\源.cpp(104,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project51.vcxproj -> D:\新建文件夹\Project51\Debug\Project51.exe
